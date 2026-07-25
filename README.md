@@ -27,18 +27,6 @@ I'm a frontend developer who loves building interactive web experiences. I enjoy
 
 ---
 
-## 🚀 Projects
-
-### 🌸 Flower Boutique
-A flower shop web app built with React — browse, select, and order beautiful arrangements.  
-[→ View project](https://github.com/maryamahassan6020-ship-it/flower-boutique)
-
----
-
-### ✂️ Rock Paper Scissors
-A clean and interactive Rock Paper Scissors game built with React.  
-[→ View project](https://github.com/maryamahassan6020-ship-it/rock-paper-scissors)
-
 ---
 
 ## 📊 GitHub stats
