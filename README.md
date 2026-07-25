@@ -29,17 +29,6 @@ I'm a frontend developer who loves building interactive web experiences. I enjoy
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=maryamahassan6020-ship-it&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamahassan6020-ship-it&layout=compact&hide_border=true&theme=dark)
-
-</div>
-
----
 
 <div align="center">
   <sub>Always learning · Always shipping 🚀</sub>
